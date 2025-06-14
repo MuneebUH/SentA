@@ -5,7 +5,7 @@ A web application built using **Flask** that allows users to upload product revi
 ---
 
 ## App Interface
-![interface](interface/SentA.jpg)
+![interface](interface/SentA.JPG)
 
 ## 🚀 Features
 
